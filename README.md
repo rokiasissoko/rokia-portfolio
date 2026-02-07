@@ -62,6 +62,6 @@ Created an interactive greeting card using copper tape, LEDs, and circuits. Desi
 ---
 
 ## 📮 Get in Touch
-- **Email:** [Your Email]
-- **LinkedIn:** [Your Profile Link]
+- **Email:** [\techbyrokia@gmail.com\]](techbyrokia@gmail.com)
+- **LinkedIn:** [\[https://www.linkedin.com/in/rokiasissoko/\]](https://www.linkedin.com/in/rokiasissoko/)
 - **GitHub:** [\[https://github.com/rokiasissoko\]](https://github.com/rokiasissoko)
