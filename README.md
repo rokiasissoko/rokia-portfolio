@@ -1,54 +1,48 @@
-# Rokia Sissoko | Product-Driven Technologist
-### Technologist & EdTech Researcher | Bridging Engineering & Human-Centered Design
+# Hello, I'm Rokia. 
+### Engineer. Researcher. Creator.
 
 ---
 
-## 🎯 About Me
-I am a **Technologist & EdTech Researcher** dedicated to bridging the gap between complex engineering and human-centered design. I believe that by building intentional, ethical technology today, we empower the youth who will be the engineers, doctors, and change-makers of tomorrow.
+## 👋 The Narrative
+I am a **Technologist & EdTech Researcher** working at the intersection of complex engineering and human-centered design. My journey started in **Information Science** and **Software Engineering**, where I built scalable systems for millions of users. Today, I am an M.A. student at **Teachers College, Columbia University**, focusing on how we can build intentional, ethical technology to empower the next generation of change-makers.
 
-My work focuses on transforming emerging tech into **scalable solutions** that solve real-world challenges. Whether I’m diving into research or developing global products, my goal is to create a meaningful, positive impact for millions of users.
-
----
-
-## 🛠 Strategic Skillset
-| Product & Strategy | Engineering & Technical | Research & Insights |
-| :--- | :--- | :--- |
-| Product Roadmap & Vision | TypeScript / JavaScript | Learning Science & Pedagogy |
-| Ethical AI Frameworks | Python (Data & Web) | Qualitative User Research |
-| Cross-functional Leadership| System Architecture | Playtesting & Iteration |
+I believe that the tools we build today shape the engineers, doctors, and leaders of tomorrow. My goal is to transform emerging tech into meaningful, positive solutions.
 
 ---
 
-## 🚀 Impact & Projects
+## 🛠 What I Build
+*I don't just write code; I design experiences that facilitate learning and engagement.*
 
-### 🏗 Scalable STEM Identity Framework
-*EdTech Research & Product Strategy* Designed a research-backed methodology to evaluate how culturally relevant technology programs enable underrepresented youth to build identities in STEM. Focused on **measurable epistemic engagement** and long-term user impact.
+### 🤖 AI Hub & Emerging Tech
+I engineered a modern web application designed for enterprise-wide **AI prototyping and experimentation**. This project was about more than just code—it was about creating a safe community for colleagues to explore, collaborate, and maximize the potential of AI in the workplace.
 
-### 🃏 Educational Gaming Strategy
-*Product Design & User Experience* Led the development and playtesting of a digital card game centered on community and trust mechanics. Iterated based on **user feedback loops** to ensure game mechanics aligned perfectly with learning outcomes.
+### 🎮 Digital Game Design
+I'm currently developing a **digital card game** that explores mechanics of community and trust. This project bridges my engineering background with my interest in game-based learning, using technical playtesting to refine educational outcomes.
 
-### ⚡ Interactive Learning Prototypes
-*Physical Computing | Rapid Prototyping* Built interactive greeting cards using paper circuits and LEDs to lower the barrier for entry in electronics education. Demonstrated how **tangible UI** can drive deeper engagement in youth learners.
-
----
-
-## 💼 Experience 
-### **Software Engineer turned Product Strategist** * **Engineering Foundation:** Applied rigorous **Information Science** principles to develop robust web applications.
-* **Scalability Mindset:** Transitioned from writing code to defining product requirements that solve global challenges for millions.
-* **Ethical Tech Advocacy:** Integrated ethical considerations into the product lifecycle to protect and empower young users.
+### ⚡ Physical Computing & Making
+I love the "tangible" side of tech. I’ve prototyped **paper circuit greeting cards** and laser-cut designs that incorporate icons of my identity. These projects explore how physical interfaces can lower the barrier to entry for STEM education.
 
 ---
 
-## 🎓 Education
-**Teachers College, Columbia University** *M.A. in Instructional Media and Technology* | Class of 2027  
-Focus: Communication, Media, and Learning Technologies Design.
+## 🔬 Research & Passions
+My academic work at Columbia centers on **Culturally Relevant Technology**. I’m currently researching how tech programming can help underrepresented youth build their identities in STEM careers and promote deep epistemic engagement.
 
-**Bachelor of Science in Information Science** Foundation in technical systems and human-computer interaction.
+**My Core Interests:**
+* **Youth Empowerment:** Building ethical tech that serves the next generation.
+* **Learning Science:** Applying pedagogical frameworks to software development.
+* **Inclusive Design:** Ensuring technology is accessible and culturally relevant.
 
 ---
 
-## 🤝 Let's Connect
-I'm always looking to collaborate on products that make a difference.
-- **Email:** rssissoko600@gmail.com
-- **LinkedIn:** www.linkedin.com/in/rokiasissoko/
-- **Portfolio:** www.rokia.com
+## 🎓 Background
+* **M.A. Technology, Media, and Learning** | Teachers College, Columbia University ('27) | Focus on Design of Learning Technologies and Games for Learning
+* **B.S. Information Science** | Focus on Technical Systems & Human-Computer Interaction
+* **Software Engineering** | Experience in TypeScript, Python, and scalable web dev
+
+---
+
+## ✨ Let’s Build Something Meaningful
+Whether it’s a research collaboration or a technical build, I’d love to connect.
+**rssissoko600@gmail.com** | **www.linkedin.com/in/rokiasissoko/** | **www.rokia.com**
+
+
