@@ -3,7 +3,7 @@
 
 ---
 
-## 👋 The Narrative
+## 👋🏾 The Narrative
 I am a **Technologist & EdTech Researcher** working at the intersection of complex engineering and human-centered design. My journey started in **Information Science** and **Software Engineering**, where I built scalable systems for millions of users. Today, I am an M.A. student at **Teachers College, Columbia University**, focusing on how we can build intentional, ethical technology to empower the next generation of change-makers.
 
 I believe that the tools we build today shape the engineers, doctors, and leaders of tomorrow. My goal is to transform emerging tech into meaningful, positive solutions.
